@@ -1,0 +1,16 @@
+{
+  "name": "impact-ps-firebase",
+  "version": "1.0.0",
+  "description": "Integración Antigravity para Firebase",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx -y http-server public -p 3000",
+    "deploy": "firebase deploy"
+  },
+  "keywords": [],
+  "author": "Antigravity AI",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^10.8.0"
+  }
+}
