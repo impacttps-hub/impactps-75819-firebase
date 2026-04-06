@@ -2,12 +2,12 @@
 // POR FAVOR: Copia aquí los valores que faltan desde tu Consola de Firebase.
 
 const firebaseConfig = {
-  apiKey: "TU_API_KEY_AQUI",
+  apiKey: "AIzaSyC_fDTfF7XCXtbrjIoMhn0_FK2XZhSWTs8",
   authDomain: "impactps-75819.firebaseapp.com",
   projectId: "impactps-75819",
   storageBucket: "impactps-75819.firebasestorage.app",
-  messagingSenderId: "TU_SENDER_ID",
-  appId: "TU_APP_ID"
+  messagingSenderId: "735325226428",
+  appId: "1:735325226428:web:1b869ea9c7aef7948317b9",
+  measurementId: "G-FJVW20HC28"
 };
-
 export default firebaseConfig;
